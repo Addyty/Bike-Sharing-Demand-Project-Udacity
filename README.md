@@ -61,9 +61,10 @@ pip install jupyterlab
 
 
 ## Information related to project specific files in this repository:<br><br>
-**1. `Bike Sharing Demand Project.ipynb`:** Jupyter notebook with code<br><br>
-**2. `Bike Sharing Demand Project Report.ipynb`:** Report of the prediction<br><br>
-**2. `Report.html`:** Report of the prediction in Html Format<br><br>
+**1. `Project_notebook.ipynb`:** Jupyter notebook with code<br><br>
+**2. `Project_report.ipynb`:** Report of the prediction<br><br>
+**3. `Project_notebook.html`:** Jupitor notebook in Html Format<br><br>
+**4. `Project_report.html`:** Report of the prediction in Html Format<br><br>
 
 
 ## Acknowledgements
